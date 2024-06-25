@@ -1,0 +1,16 @@
+body {
+	background-color: black;
+	color: white;
+	margin: center;
+	text-align: center;
+	font-size: 12;
+	padding-top: 30px;
+}
+.button1 {
+	background-color: rgba(99, 122, 134, 0.61);
+	color: white;
+}
+.button1:hover {
+	background-color: rgba(45, 178, 47, 0.95);
+	color: black;
+}
